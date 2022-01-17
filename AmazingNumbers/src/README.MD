@@ -1,7 +1,6 @@
 Amazing Numbers is a Java project from JetBrains Academy, it covers basic operations on integers as well as with Java Collections. 
 It determines various properties of a number such as whether a number is even, odd, buzz, duck, palindromic, gapful, spy, square, sunny, jumping, happy or sad.
 
-Objectives
 The program should process the user requests, it should:
 
 Welcome users;
