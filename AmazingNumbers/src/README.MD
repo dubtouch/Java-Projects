@@ -15,7 +15,6 @@ For two numbers, print the properties of all numbers in the list;
 For two numbers and two properties, print the list of numbers that contain the specified properties;
 If a property is preceded by a minus, this property should not be present in a number;
 If the user specifies mutually exclusive properties, abort the request and warn the user.
-Once the request is processed, continue execution from step 3.
 
 Examples:
 
